@@ -10,4 +10,4 @@ MATLAB Files:
 	5. Regularized Linear Regression + Bias Vs. Variance
 	6. Support Vector Machines
 	7. K-means Clustering + Principal Component Analysis
-	8. Anomoly Detection + Recommender Systems
+	8. Anomaly Detection + Recommender Systems
